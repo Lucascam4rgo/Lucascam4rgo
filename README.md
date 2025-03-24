@@ -9,7 +9,7 @@ Eu sou Lucas Camargo, tenho 19 anos e sou um desenvolvedor apaixonado por tecnol
 - 🔹 Inteligência Artificial (foco para 2025!)
 
 ### 🛠️ Tecnologias
-#### 📌 Linguagens de programação
+#### 📌 Linguagens
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
