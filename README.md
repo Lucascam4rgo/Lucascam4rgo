@@ -4,9 +4,9 @@
 Eu sou Lucas Camargo, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novas formas de transformar ideias em soluções eficientes. Atualmente, trabalho na área de TI para uma consultoria contábil, onde contribuo para a automação de processos em Python e na construção de sites. Além disso, estou cursando Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos para evoluir constantemente. Gosto de explorar diferentes tecnologias e estou focado, em 2025, em expandir meus estudos em Inteligência Artificial e Front-end.
 
 ### 🚀 O que eu faço?
-- 🔹 Desenvolvimento Web (Sempre me aprimorando)
-- 🔹 Automação de processos
-- 🔹 Inteligência Artificial (foco para 2025!)
+🔹 Desenvolvimento Web (Sempre me aprimorando)
+🔹 Automação de processos
+🔹 Inteligência Artificial (foco para 2025!)
 
 ### 🛠️ Tecnologias
 #### 📌 Linguagens
