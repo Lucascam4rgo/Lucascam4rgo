@@ -34,11 +34,11 @@ Busco sempre transformar ideias em soluções eficientes, colaborando com times 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight)
 
 ### 🌱 Projetos e Interesses
-- ##🤖 Automação de processos com Python (usado em ambiente empresarial real)
+🤖 Automação de processos com Python (usado em ambiente empresarial real)
 
-- ##💡 Construção de interfaces modernas com HTML, CSS, JavaScript e React
+💡 Construção de interfaces modernas com HTML, CSS, JavaScript e React
 
-- ##🎯 Estudo contínuo de Fullstack com foco em React, Next.js, TypeScript e arquitetura de APIs
+🎯 Estudo contínuo de Fullstack com foco em React, Next.js, TypeScript e arquitetura de APIs
   
 
 ### 📫 Conecte-se comigo
