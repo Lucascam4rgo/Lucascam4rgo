@@ -1,12 +1,16 @@
 # 👋 Olá!
 
 ### 💻 Sobre mim
-Eu sou Lucas Camargo, tenho 19 anos e sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novas formas de transformar ideias em soluções eficientes. Atualmente, trabalho na área de TI para uma consultoria contábil, onde contribuo para a automação de processos em Python e na construção de sites. Além disso, estou cursando Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos para evoluir constantemente. Gosto de explorar diferentes tecnologias e estou focado, em 2025, em expandir meus estudos em Inteligência Artificial e Front-end.
+Sou Lucas Camargo, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas com paixão por tecnologia, inovação e aprendizado constante. Tenho experiência prática em desenvolvimento web e automações com Python, e em 2025 estou focado em evoluir como Desenvolvedor Fullstack, com ênfase em tecnologias modernas de Front-end e Back-end.
 
-### 🚀 O que eu faço?
-🔹 Desenvolvimento Web (Sempre me aprimorando)
-🔹 Automação de processos
-🔹 Inteligência Artificial (foco para 2025!)
+Busco sempre transformar ideias em soluções eficientes, colaborando com times e projetos que gerem impacto real. Acredito na importância de construir código limpo, acessível e com propósito.
+
+### 🚀 O que estou construindo em 2025?
+🌐 Front-end com React, TailwindCSS e foco em acessibilidade, usabilidade e performance
+
+🧠 Back-end com Java e Python, desenvolvendo APIs e automações eficientes
+
+🔄 Integração Fullstack com boas práticas de versionamento, testes e organização de código
 
 ### 🛠️ Tecnologias
 #### 📌 Linguagens
@@ -30,11 +34,12 @@ Eu sou Lucas Camargo, tenho 19 anos e sou um desenvolvedor apaixonado por tecnol
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight)
 
 ### 🌱 Projetos e Interesses
-- **🤖 Automação de Processos** – Já desenvolvi várias automações em Python para minha empresa
-- **🎯 Desenvolvimento Web** –  Foco em tecnologias web e, ao longo do tempo, aprimorei minhas habilidades em HTML, CSS e JavaScript. Atualmente, meu foco está em aprofundar meus conhecimentos nas partes mais avançadas do front-end, como React, Next.js e TypeScript.
-- **🧠 Aprendizado de Máquina** – Explorando modelos de IA e redes neurais
-- **🤖 Chatbots e NLP** – Interessado em criar bots inteligentes e processamento de linguagem natural
-- **📊 IA aplicada a Negócios** – Buscando formas de otimizar processos empresariais com IA
+- ##🤖 Automação de processos com Python (usado em ambiente empresarial real)
+
+- ##💡 Construção de interfaces modernas com HTML, CSS, JavaScript e React
+
+- ##🎯 Estudo contínuo de Fullstack com foco em React, Next.js, TypeScript e arquitetura de APIs
+  
 
 ### 📫 Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lucascam4rgo)
