@@ -8,7 +8,7 @@ Busco sempre transformar ideias em soluções eficientes, colaborando com times 
 ### 🚀 O que estou construindo em 2025?
 🌐 Front-end com React, TailwindCSS e foco em acessibilidade, usabilidade e performance
 
-🧠 Back-end com Java e Python, desenvolvendo APIs e automações eficientes
+🧠 Back-end com Java e Spring, desenvolvendo APIs e automações eficientes
 
 🔄 Integração Fullstack com boas práticas de versionamento, testes e organização de código
 
