@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 ### 💻 Sobre mim
-Sou Lucas Camargo, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas com paixão por tecnologia, inovação e aprendizado constante. Tenho experiência prática em desenvolvimento web e automações com Python, e em 2025 estou focado em evoluir como Desenvolvedor Fullstack, com ênfase em tecnologias modernas de Front-end e Back-end.
+Sou Lucas Camargo, tenho 20 anos e sou estudante de Ciência da Computação com paixão por tecnologia, inovação e aprendizado constante. Tenho experiência prática em desenvolvimento web e automações com Python, e em 2025 estou focado em evoluir como Desenvolvedor Fullstack, com ênfase em tecnologias modernas de Front-end e Back-end.
 
 Busco sempre transformar ideias em soluções eficientes, colaborando com times e projetos que gerem impacto real. Acredito na importância de construir código limpo, acessível e com propósito.
 
@@ -17,11 +17,13 @@ Busco sempre transformar ideias em soluções eficientes, colaborando com times 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 #### 📌 Frameworks e Bibliotecas 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 #### 📌 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
