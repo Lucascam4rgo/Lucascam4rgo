@@ -1,52 +1,47 @@
 # 👋 Olá!
 
-### 💻 Sobre mim
-Sou Lucas Camargo, tenho 20 anos e sou estudante de Ciência da Computação com paixão por tecnologia, inovação e aprendizado constante. Tenho experiência prática em desenvolvimento web e automações com Python, e em 2025 estou focado em evoluir como Desenvolvedor Fullstack, com ênfase em tecnologias modernas de Front-end e Back-end.
+## 💻 Sobre mim  
+Sou **Lucas Camargo**, tenho 20 anos e sou estudante de **Ciência da Computação**. Tenho paixão por tecnologia, inovação e aprendizado constante.  
+Atualmente, meu foco está em **desenvolvimento back-end com Java**, com o objetivo de me tornar um **Desenvolvedor Java Fullstack**.  
 
-Busco sempre transformar ideias em soluções eficientes, colaborando com times e projetos que gerem impacto real. Acredito na importância de construir código limpo, acessível e com propósito.
+Ao longo da minha trajetória, adquiri experiência prática com **automação em Python** e **desenvolvimento web**, mas em **2025 estou consolidando minha base em Java e Spring Boot**, criando APIs bem estruturadas, seguras e escaláveis.  
 
-### 🚀 O que estou construindo em 2025?
-🌐 Front-end com React, TailwindCSS e foco em acessibilidade, usabilidade e performance
-
-🧠 Back-end com Java e Spring, desenvolvendo APIs e automações eficientes
-
-🔄 Integração Fullstack com boas práticas de versionamento, testes e organização de código
-
-### 🛠️ Tecnologias
-#### 📌 Linguagens
-### 🛠️ Tecnologias
-
-#### 📌 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
-#### 📌 Frameworks e Bibliotecas
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-
-#### 📌 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight)
-
-### 🌱 Projetos e Interesses
-💡 Construção de interfaces modernas com HTML, CSS, JavaScript e React
-
-🎯 Estudo contínuo de Fullstack com foco em React, Next.js, TypeScript e arquitetura de APIs
-  
-
-### 📫 Conecte-se comigo
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Lucascam4rgo)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lucascamargo005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcs-camargo)
+Acredito na importância de **código limpo, boas práticas, testes e versionamento**, sempre buscando aprender com cada projeto e colaborar em times que valorizem qualidade e crescimento conjunto.  
 
 ---
-⚡ *Sempre em busca de desafios e novas oportunidades para crescer!* 🚀
+
+## 🚀 O que estou construindo em 2025  
+🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST, automações e integração com front-end.  
+🌐 **Front-end:** HTML, CSS e JavaScript — foco em criar interfaces simples e eficientes para consumir APIs.  
+🔄 **Fullstack:** Integração entre sistemas com boas práticas, versionamento com Git e documentação clara.  
+
+---
+
+## 🛠️ Tecnologias  
+
+**📌 Linguagens:**  
+Java • JavaScript • HTML • CSS • SQL  
+
+**📌 Frameworks:**  
+Spring Boot • React (aprendizado paralelo)  
+
+**📌 Ferramentas:**  
+Git • VSCode • Notion  
+
+---
+
+## 🌱 Projetos e Interesses  
+💡 APIs REST com Java e Spring Boot  
+⚙️ Integração entre sistemas e boas práticas de arquitetura  
+📊 Banco de dados relacional (MySQL) e ORM com JPA/Hibernate  
+📈 Evolução constante rumo ao desenvolvimento fullstack com Java + React  
+
+---
+
+## 📫 Conecte-se comigo  
+[GitHub](#) • [LinkedIn](#) • [Gmail](#)  
+
+---
+
+⚡ **Em busca de desafios reais para aplicar meus conhecimentos em Java e crescer como desenvolvedor!** 🚀
+
