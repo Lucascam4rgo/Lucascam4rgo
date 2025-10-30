@@ -40,8 +40,8 @@ Git • VSCode • Notion
 
 ## 📊 GitHub Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcs-camargo&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-camargo&layout=compact&theme=tokyonight&hide_border=true)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascam4rgo&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
