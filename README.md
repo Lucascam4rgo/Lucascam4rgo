@@ -11,7 +11,7 @@ Acredito na importância de **código limpo, boas práticas, testes e versioname
 ---
 
 ## 🚀 O que estou construindo em 2025  
-🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST, automações e integração com front-end.  
+🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST e integração com front-end.  
 🌐 **Front-end:** HTML, CSS e JavaScript — foco em criar interfaces simples e eficientes para consumir APIs.  
 🔄 **Fullstack:** Integração entre sistemas com boas práticas, versionamento com Git e documentação clara.  
 
