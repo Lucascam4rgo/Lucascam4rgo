@@ -38,8 +38,17 @@ Git • VSCode • Notion
 
 ---
 
+## 📊 GitHub Stats
+
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcs-camargo&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-camargo&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
 ## 📫 Conecte-se comigo  
-[GitHub](#) • [LinkedIn](#) • [Gmail](#)  
+
+- [💼 LinkedIn](https://www.linkedin.com/in/lcs-camargo/)  
+- [📧 Gmail](mailto:lucascamargo005@gmail.com)  
 
 ---
 
