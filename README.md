@@ -1,7 +1,7 @@
 # 👋 Olá!
 
 ## 💻 Sobre mim  
-Sou **Lucas Camargo**, tenho 20 anos e sou estudante de **Ciência da Computação**. Tenho paixão por tecnologia, inovação e aprendizado constante.  
+Sou **Lucas Camargo**, tenho 20 anos e sou estudante de **Engenharia de Software**. Tenho paixão por tecnologia, inovação e aprendizado constante.  
 Atualmente, meu foco está em **desenvolvimento back-end com Java**, com o objetivo de me tornar um **Desenvolvedor Java Fullstack**.  
 
 Ao longo da minha trajetória, adquiri experiência prática com **automação em Python** e **desenvolvimento web**, mas em **2025 estou consolidando minha base em Java e Spring Boot**, criando APIs bem estruturadas, seguras e escaláveis.  
@@ -11,9 +11,7 @@ Acredito na importância de **código limpo, boas práticas, testes e versioname
 ---
 
 ## 🚀 O que estou construindo em 2025  
-🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST e integração com front-end.  
-🌐 **Front-end:** HTML, CSS e JavaScript — foco em criar interfaces simples e eficientes para consumir APIs.  
-🔄 **Fullstack:** Integração entre sistemas com boas práticas, versionamento com Git e documentação clara.  
+🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST e integração com front-end.   
 
 ---
 
