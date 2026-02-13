@@ -1,54 +1,69 @@
-# 👋 Olá!
+<h1 align="center">👋 Olá, eu sou o Lucas Camargo</h1>
 
-## 💻 Sobre mim  
-Sou **Lucas Camargo**, tenho 20 anos e sou estudante de **Engenharia de Software**. Tenho paixão por tecnologia, inovação e aprendizado constante.  
-Atualmente, meu foco está em **desenvolvimento back-end com Java**, com o objetivo de me tornar um **Desenvolvedor Java Fullstack**.  
-
-Ao longo da minha trajetória, adquiri experiência prática com **automação em Python** e **desenvolvimento web**, mas em **2025 estou consolidando minha base em Java e Spring Boot**, criando APIs bem estruturadas, seguras e escaláveis.  
-
-Acredito na importância de **código limpo, boas práticas, testes e versionamento**, sempre buscando aprender com cada projeto e colaborar em times que valorizem qualidade e crescimento conjunto.  
+<p align="center">
+🎓 Estudante de Engenharia de Software <br>
+💻 Desenvolvedor Back-end Java em formação <br>
+🚀 Em evolução para Fullstack (Java + React)
+</p>
 
 ---
 
-## 🚀 O que estou construindo em 2025  
-🧠 **Back-end:** Java, Spring Boot, JPA/Hibernate e MySQL — desenvolvimento de APIs REST e integração com front-end.   
+## 🧠 Sobre mim
+
+Sou estudante de Engenharia de Software com foco em desenvolvimento back-end utilizando **Java e Spring Boot**.  
+Tenho experiência prática com automações em Python e desenvolvimento web, e atualmente estou aprofundando meus conhecimentos na construção de **APIs REST bem estruturadas, seguras e escaláveis**.
+
+Tenho interesse em boas práticas, organização em camadas, versionamento com Git e melhoria contínua através de projetos reais.
 
 ---
 
-## 🛠️ Tecnologias  
+## 🚀 Stack Principal
 
-**📌 Linguagens:**  
-Java • JavaScript • HTML • CSS • SQL  
+### 🔹 Back-end
+- Java
+- Spring Boot
+- JPA / Hibernate
+- MySQL
+- APIs REST
 
-**📌 Frameworks:**  
-Spring Boot • React (aprendizado paralelo)  
+### 🔹 Front-end
+- JavaScript
+- HTML
+- CSS
+- React (em evolução)
 
-**📌 Ferramentas:**  
-Git • VSCode • Notion  
-
----
-
-## 🌱 Projetos e Interesses  
-💡 APIs REST com Java e Spring Boot  
-⚙️ Integração entre sistemas e boas práticas de arquitetura  
-📊 Banco de dados relacional (MySQL) e ORM com JPA/Hibernate  
-📈 Evolução constante rumo ao desenvolvimento fullstack com Java + React  
-
----
-
-## 📊 GitHub Stats
-
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascam4rgo&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight&hide_border=true)
+### 🔹 Ferramentas
+- Git & GitHub
+- VS Code
+- Notion
 
 ---
 
-## 📫 Conecte-se comigo  
+## 📌 O que estou construindo
 
-- [💼 LinkedIn](https://www.linkedin.com/in/lcs-camargo/)  
-- [📧 Gmail](mailto:lucascamargo005@gmail.com)  
+- APIs REST com arquitetura em camadas
+- Integração com banco de dados relacional (MySQL)
+- Aplicações com boas práticas de organização e separação de responsabilidades
+- Evolução para aplicações Fullstack (Java + React)
 
 ---
 
-⚡ **Em busca de desafios reais para aplicar meus conhecimentos em Java e crescer como desenvolvedor!** 🚀
+## 📊 Estatísticas
 
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 Contato
+
+- 💼 LinkedIn: https://linkedin.com/in/SEUUSUARIO
+- 📧 Email: SEUEMAIL
+
+---
+
+<p align="center">
+⚡ Sempre em busca de desafios reais para evoluir como desenvolvedor.
+</p>
