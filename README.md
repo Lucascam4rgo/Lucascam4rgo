@@ -51,16 +51,16 @@ Tenho interesse em boas práticas, organização em camadas, versionamento com G
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucascam4rgo&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://linkedin.com/in/SEUUSUARIO
-- 📧 Email: SEUEMAIL
+- 💼 LinkedIn: https://linkedin.com/in/lcs-camargo
+- 📧 Email: lucascamargo005@gmail.com
 
 ---
 
