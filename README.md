@@ -50,9 +50,9 @@ Tenho interesse em boas práticas, organização em camadas, versionamento com G
 
 ## 📊 Estatísticas
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascam4rgo&show_icons=true)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucascam4rgo&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascam4rgo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact)
 
 
 ---
