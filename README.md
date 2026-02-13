@@ -50,10 +50,10 @@ Tenho interesse em boas práticas, organização em camadas, versionamento com G
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Lucascam4rgo&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascam4rgo&layout=compact&theme=tokyonight"/>
-</p>
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascam4rgo&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascam4rgo&layout=compact)
+
 
 ---
 
