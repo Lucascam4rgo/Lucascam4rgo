@@ -22,19 +22,18 @@ Tenho interesse em boas práticas, organização em camadas, versionamento com G
 ### 🔹 Back-end
 - Java
 - Spring Boot
-- JPA / Hibernate
-- MySQL
+- JDBC / JPA / Hibernate
+- PostgreSQL
 - APIs REST
 
 ### 🔹 Front-end
 - JavaScript
 - HTML
 - CSS
-- React (em evolução)
 
 ### 🔹 Ferramentas
 - Git & GitHub
-- VS Code
+- IntelliJ
 - Notion
 
 ---
